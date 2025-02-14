@@ -15,26 +15,17 @@ Technologies Used 🛠️
 
 Setup & Installation 🚀
 1️⃣ Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/AirTrack-Cursor.git
+git clone https://github.com/abbhix8/AirTrack-Cursor.git
 cd AirTrack-Cursor
+
 2️⃣ Install dependencies:
-
-bash
-Copy
-Edit
 pip install opencv-python mediapipe pyautogui numpy
-3️⃣ Run the script:
 
-bash
-Copy
-Edit
+3️⃣ Run the script:
 python finger_tracking.py
+
 Demo 🎥
-[Upload a GIF or screenshot here showing the cursor control in action]
+
 
 Usage 🖱️
 📌 Move your index finger to control the cursor.
